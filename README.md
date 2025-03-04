@@ -1,4 +1,4 @@
-# Project Name
+# Project Entity-Attribute-Value System
 
 ## Setup Instructions
 
